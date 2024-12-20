@@ -59,7 +59,7 @@
 
 <tr>
  
-<td rowspan = 5><img src="b7.jpeg" width=300px height=300px><br></img></td>
+<td rowspan = 5><img src="b7.jpeg" width=300px height=300px><br>></td>
 </tr>
   
 <tr>
